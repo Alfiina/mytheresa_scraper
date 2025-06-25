@@ -13,5 +13,3 @@ This Python script uses **Selenium** and **BeautifulSoup** to scrape product inf
   - Discount
   - Sizes Available
   - Image URL
-  - Product Detail Page URL
-- Stores the data in a CSV file
